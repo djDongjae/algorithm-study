@@ -1,3 +1,4 @@
+#99페이지 '1이 될 때까지'
 n, k = map(int, input().split())
 count = 0
 while n != 1:
