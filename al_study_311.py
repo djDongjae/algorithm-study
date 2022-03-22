@@ -1,3 +1,4 @@
+#311페이지_'모험가 길드'
 n = int(input())
 data = list(map(int, input().split()))
 data.sort()
